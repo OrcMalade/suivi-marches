@@ -1,0 +1,8 @@
+{
+  "name": "suivi-marches",
+  "pages_build_output_dir": ".",
+  "compatibility_date": "2026-10-16",
+  "vars": {
+    "ORIGINE": "https://orcmalade.github.io/suivi-marches/"
+  }
+}
